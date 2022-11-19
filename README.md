@@ -46,7 +46,7 @@
 <!-- - 📺 [Follow atulkamble on Twitch](https://twitch.tv/atulkamble). I stream weekly, usually Friday afternoons (IST).
 - 🏙️ [My Github Skyline: Contribution in 3D, VR & IRL](https://skyline.github.com/atulkamble/2021)
 - 🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet) -->
-- :octocat: [My Resume/CV]()
+- :octocat: [My Resume/CV](https://github.com/ViralJariwala/ViralJariwala/blob/main/Viral%20Shaileshkumar%20Jariwala%20Job%20Resume.pdf)
 <!-- - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>   -->
 
 <!-- <p align="center"> 
