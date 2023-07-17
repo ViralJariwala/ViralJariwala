@@ -39,7 +39,7 @@
 
 - 📫 Reach me out!: jariwalaviral.vj2000@gmail.com
 <!-- - 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage IT/Cloud newbies](https://www.linkedin.com/groups/12456663/). -->
-- 💬 Ask me about: ASP.NET | JAVA | PYTHON.
+- 💬 Ask me about: REACTJS | NODEJS | EXPRESSJS | MONGODB | REACT NATIVE.
 - 🔭 I also try to be active here on GitHub!
 <!-- - 💡 Subsribe [Atul's Cloud NewsLetter](https://www.getrevue.co/profile/atulkamble?via=twitter-profile) -->
 <!-- - 🎯 See my blog post on [Medium](https://atul-kamble.medium.com) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
